@@ -17,15 +17,20 @@ Musical Web app  - an amateur idea  💡 - with high potential in future !
 
 **Main page** - The default page for the website. The menu bar on top of the page has a main link, link to the About page, and three icons each routed to one of the three main functionalities of the website. The user can search for a song here or go directly to the search page.
 
-**Who sang it better** – Game quiz that displays a random track name that is sung by more than one artist and prompts the user to guess which rendition of the track is the most popular, based on the track popularity metrics.
+![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/LandingPage.png?raw=true)
 
 **Search page** - The user is able to search for his/her favorite artist and/or song in the search bar, then listen to track previews of the search results while seeing which album(s) the tracks are from.
+![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/PlaylistPage.png?raw=true)
 
 **WordCloud page** - Upon landing on this page, the user is shown a snapshot of the most popular songs on Spotify at the time the dataset was collected. Additionally, the user is able to search for their favorite artist, producing a colorful word cloud of track names and the associated albums. 
+![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/WordcloudPage.png?raw=true)
+
+**Who sang it better** – Game quiz that displays a random track name that is sung by more than one artist and prompts the user to guess which rendition of the track is the most popular, based on the track popularity metrics.
+![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/ComparisonPage.png?raw=true)
 
 **About page** - General info about the team, Database Demons, and its members.
 
-![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/LandingPage.png?raw=true)
+
 
 # Build Instructions
 1. Before building, please ensure that the Application Structure contains the following folders and files. See the accompanying descriptions for context.
