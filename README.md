@@ -25,6 +25,8 @@ Musical Web app  - an amateur idea  💡 - with high potential in future !
 
 **About page** - General info about the team, Database Demons, and its members.
 
+![alt text](https://github.com/sgriffin10/DBInfoSystemsFinalProject/blob/main/DemoPics/LandingPage.png?raw=true)
+
 # Build Instructions
 1. Before building, please ensure that the Application Structure contains the following folders and files. See the accompanying descriptions for context.
    1. Server Folder (/server):
