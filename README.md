@@ -1,8 +1,12 @@
 # Musical PlayLand :crystal_ball:
-Musical Web app  - an amateur idea  💡 - with high potential in future !
+### Description
+We wanted to make a web application for all music lovers - one that people of all ages can use to engage with music in a unique way. On our app, visitors can play song game quizzes, visualize music information in a pretty word cloud, and search/listen to track previews of their favorite artists and songs. Our app, Musical Playland, is not only a music player like many other products on the market, but an app that combines music with games and much more. 
 
-# Architecture  :white_check_mark:
-(ALL) List of technologies, description of system architecture/application used for the project
+# Technologies + Architecture 
+
+For this project, we originally acquired three datasets all in .csv format: Albums, Artists, and Tracks from https://www.kaggle.com/saurabhshahane/spotgen-music-dataset. We cleaned & pre-processed these tables in Pandas then stored them in a MySQL database hosted on Amazon’s AWS. For our web app, we used Node.js (Express.js) for the back-end API and React on the front-end. We utilized the material UI library and shards-react to customize stylistic elements within our web app such as the menu bar.   
+
+**Technologies:**
 * Pandas (Python) for data cleaning & pre-processing 
 * MySQL
 * DataGrip
@@ -13,7 +17,7 @@ Musical Web app  - an amateur idea  💡 - with high potential in future !
 * Node.js (Express.js)
 * React
 
-# Web App description :sparkles:
+# Web App Pages :sparkles:
 
 **Main page** - The default page for the website. The menu bar on top of the page has a main link, link to the About page, and three icons each routed to one of the three main functionalities of the website. The user can search for a song here or go directly to the search page.
 
